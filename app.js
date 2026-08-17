@@ -1,7 +1,7 @@
 // let d=Date()
 // console.log(d);
 // let  a= new Date()
-// console.log(a);
+// console.log(a)
 let hours = document.querySelector("#hrs")
 let minutes = document.querySelector("#min")
 let seconds = document.querySelector("#sec")
