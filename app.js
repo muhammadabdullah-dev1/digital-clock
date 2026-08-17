@@ -1,5 +1,5 @@
 // let d=Date()
-// console.log(d);
+// console.log(d)
 // let  a= new Date()
 // console.log(a)
 let hours = document.querySelector("#hrs")
